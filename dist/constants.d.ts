@@ -1,1 +1,1 @@
-export declare const BASE_URL = "http://localhost:5000/";
+export declare const BASE_URL = "https://api.flexystore.ru/";
